@@ -11,6 +11,15 @@ TextureImporter:
   - first:
       213: 5318646626404706117
     second: fish-animfish_2
+  - first:
+      213: -5638641480765037692
+    second: fish-animfish_0
+  - first:
+      213: 2295676862201764005
+    second: fish-animfish_1
+  - first:
+      213: 5581725098335129100
+    second: fish-animfish_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
